@@ -1,14 +1,14 @@
 # ScriKit (The Script Kit)
 
-![scrikit Logo](images/scrikit-logo.png)
+![scrikit Logo](https://raw.githubusercontent.com/coryavra/scrikit/refs/heads/master/images/scrikit-logo.png)
 
-ScriKit is a lightweight no-dependency toolkit for quickly building consistently beautiful CLI python scripts. Really, it's just a collection of my most-used utilities and variables. 
+ScriKit is a lightweight no-dependency toolkit for quickly building consistently beautiful CLI python scripts. Really, it's just a collection of my most-used utility functions and variables. 
 
 ## Features
 
-- Script Class: Quickly build scripts with colorful banners, built-in benchmarking, and more.
-- Color Theme: Predefined color variables, organized into a theme.
-- Enhanced Logging: Automatically overrides the native logging formatter with colorized output for different log levels.
+- Script class: Quickly build scripts with colorful banners, built-in benchmarking, and more.
+- Color theme: Predefined color variables, organized into a theme.
+- Enhanced logging: Automatically overrides the native logging formatter with colorized output for different log levels.
 - Data displays: Also contains a table and tree display functions for visualizing data in the terminal.
 
 ## Installation
